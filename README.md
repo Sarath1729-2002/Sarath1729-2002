@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Sarath
-- 👀 I’m interested in all things realted to AI, Machine Learning, Computer Vision, NLP, Reinforcement Learning and Quantum Computing
-- 🌱 I’m currently enrolled in BTech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at VIT Chennai
-- 💞️ I’m looking to collaborate on anything related to AI
-- 📫 You can reach me at skchingapurathu@gmail.com
-
-<!---
-Sarath1729-2002/Sarath1729-2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I am Sarath.
+🌱 I am actively exploring research opportunities in reasoning, world models, representational learning, self supervised learning, and causal inference. I enjoy working on ideas that help models understand structure and make reliable decisions.
+🎓 I am preparing for applications to Masters level research programs this cycle, and I am steadily looking for opportunities along similar lines.
+🤝 I am open to collaborations related to artificial intelligence, especially those involving the aforementioned areas.
+📫 You can reach me at skchingapurathu@gmail.com
+.
